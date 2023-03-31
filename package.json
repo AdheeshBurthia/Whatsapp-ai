@@ -38,5 +38,10 @@
   "directories": {
     "lib": "lib",
     "src": "src"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdheeshBurthia/Whatsapp-ai.git"
+  },
+  "homepage": "https://github.com/AdheeshBurthia/Whatsapp-ai#readme"
 }
