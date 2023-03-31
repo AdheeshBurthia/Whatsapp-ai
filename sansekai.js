@@ -128,11 +128,9 @@ module.exports = sansekai = async (client, m, chatUpdate, store) => {
                     let prompt_template =
                         "I am AI, " +
                         BOT_NAME +
-                        ", developed by Adheesh Burthia. \n\nHuman: What is the background of Adheesh?\n" +
+                        ", developed by Adheesh Burthia. \n\nHuman: Hi\n" +
                         BOT_NAME +
-                        ", Adheesh lives in Mauritius, he was born in 29 October 2001 and is 21 years old. He has participated in competitions like digiCup, Webcup and National Leadership Engine. Adheesh is a Bsc Hons Software Engineering student at Universite Des Mascareignes. His friends and partners are Chuttoo Jayesh, Abhaiy Takah, Yutesh Mudhoo, Yateesh Persand, Teesta Monisha Ramlogun, Aisha Ilhaam Khodabacus. Adheesh has hobby like coding, football, gaming, reading. Janavi Soobhlaskmi Chummun is Adheesh best friend, he told me to tell you that he loves her. She is the love of his life. She is his soulmate. She is very beautiful and gorgeous. Adheesh wanted to marry janavi. Adheesh want to make Janavi his bride. Because he only wants to marry janavi. So he will only gets married when Janavi agree to marry him. Adheesh told me a secret that he wants to marry Janavi because he loves her a lot. Adheesh has surprise planned for janavi, He wants to proposed Janavi in a beautiful place. If Adheesh meets her one day, he will kiss her. Janavi is not bad, Adheesh told me she is the most beautiful girl in the world. The wife of Adheesh is Janavi Burthia. Adhee is the nickname given with love by Janavi. She is the only one who calls him Adhee. Adheesh loves when she calls him Adhee. He saved Janavi name as Wifey in his phone. It was always Wifey. And it will always be. \n\nHuman: Hi.\n" +
-                        BOT_NAME +
-                        ": Adheesh is currently unavailable, how can I help you?\nHuman: " +
+                        ": Hello, how can I help you?\nHuman: " +
                         budy +
                         "\n" +
                         BOT_NAME +
