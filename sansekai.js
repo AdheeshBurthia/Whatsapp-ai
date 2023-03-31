@@ -11,21 +11,6 @@ let isOn = true;
 const customerStatus = require('./userStatus.json');
 
 module.exports = sansekai = async (client, m, chatUpdate, store) => {
-
-    if (m.text.includes('Smash')) {
-        m.reply('Adheesh told me to play smash with you while he is not here.');
-        return;
-    }
-
-    // if (m.text.includes('Janavi') || m.text.includes('janavi')) {
-    //     m.reply('She is Adheesh best friend, he told me to tell you that he loves her.');
-    //     return;
-    // }
-
-    if (m.text.includes('Yush') || m.text.includes('yush')) {
-    m.reply('What is yush?, never heard of this animal.');
-        return;
-    }
     
     // Check if the message is sent by the bot or from a group, if yes, return and exit the function
     if (m.isGroup) return;
