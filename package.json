@@ -1,7 +1,7 @@
 {
   "name": "Whatsapp-chatgpt",
   "version": "1",
-  "description": "WHATSAPP CHATGPT BOT, USING OPENAI",
+  "description": "WHATSAPP AI BOT, USING OPENAI",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/harshitethic",
+  "base": "https://github.com/AdheeshBurthia",
   "author": "A10 Bot",
   "license": "MIT",
   "dependencies": {
